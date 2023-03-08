@@ -1,0 +1,150 @@
+
+Train Epoch: 0 	Domain Classifier Loss: 0.459791	Feature Extractor Loss: 2.259789	Train Accuracy: 0.171875
+usps set : Average loss: 0.0089, Accuracy: 239/1488 (16.0618%)
+
+Train Epoch: 1 	Domain Classifier Loss: 0.664094	Feature Extractor Loss: 2.005809	Train Accuracy: 0.254720
+usps set : Average loss: 0.0074, Accuracy: 522/1488 (35.0806%)
+
+Train Epoch: 2 	Domain Classifier Loss: 1.291535	Feature Extractor Loss: 1.655793	Train Accuracy: 0.339681
+usps set : Average loss: 0.0072, Accuracy: 593/1488 (39.8522%)
+
+Train Epoch: 3 	Domain Classifier Loss: 0.613930	Feature Extractor Loss: 1.573575	Train Accuracy: 0.399251
+usps set : Average loss: 0.0065, Accuracy: 710/1488 (47.7151%)
+
+Train Epoch: 4 	Domain Classifier Loss: 0.534660	Feature Extractor Loss: 1.390793	Train Accuracy: 0.458984
+usps set : Average loss: 0.0055, Accuracy: 800/1488 (53.7634%)
+
+Train Epoch: 5 	Domain Classifier Loss: 0.799472	Feature Extractor Loss: 1.109787	Train Accuracy: 0.494792
+usps set : Average loss: 0.0049, Accuracy: 884/1488 (59.4086%)
+
+Train Epoch: 6 	Domain Classifier Loss: 0.700569	Feature Extractor Loss: 0.982151	Train Accuracy: 0.534993
+usps set : Average loss: 0.0045, Accuracy: 920/1488 (61.8280%)
+
+Train Epoch: 7 	Domain Classifier Loss: 0.745377	Feature Extractor Loss: 0.761127	Train Accuracy: 0.577962
+usps set : Average loss: 0.0033, Accuracy: 1117/1488 (75.0672%)
+
+Train Epoch: 8 	Domain Classifier Loss: 0.803875	Feature Extractor Loss: 0.552255	Train Accuracy: 0.610514
+usps set : Average loss: 0.0037, Accuracy: 1050/1488 (70.5645%)
+
+Train Epoch: 9 	Domain Classifier Loss: 0.600858	Feature Extractor Loss: 0.551308	Train Accuracy: 0.644043
+usps set : Average loss: 0.0038, Accuracy: 1047/1488 (70.3629%)
+
+Train Epoch: 10 	Domain Classifier Loss: 0.875448	Feature Extractor Loss: 0.217453	Train Accuracy: 0.643066
+usps set : Average loss: 0.0035, Accuracy: 1048/1488 (70.4301%)
+
+Train Epoch: 11 	Domain Classifier Loss: 0.741372	Feature Extractor Loss: 0.183962	Train Accuracy: 0.680013
+usps set : Average loss: 0.0033, Accuracy: 1129/1488 (75.8737%)
+
+Train Epoch: 12 	Domain Classifier Loss: 0.674069	Feature Extractor Loss: 0.146294	Train Accuracy: 0.694010
+usps set : Average loss: 0.0034, Accuracy: 1112/1488 (74.7312%)
+
+Train Epoch: 13 	Domain Classifier Loss: 0.812030	Feature Extractor Loss: -0.062440	Train Accuracy: 0.676758
+usps set : Average loss: 0.0035, Accuracy: 1112/1488 (74.7312%)
+
+Train Epoch: 14 	Domain Classifier Loss: 0.698813	Feature Extractor Loss: -0.069968	Train Accuracy: 0.704590
+usps set : Average loss: 0.0038, Accuracy: 1101/1488 (73.9919%)
+
+Train Epoch: 15 	Domain Classifier Loss: 0.793591	Feature Extractor Loss: -0.227518	Train Accuracy: 0.685221
+usps set : Average loss: 0.0044, Accuracy: 1014/1488 (68.1452%)
+
+Train Epoch: 16 	Domain Classifier Loss: 0.714911	Feature Extractor Loss: -0.221373	Train Accuracy: 0.691081
+usps set : Average loss: 0.0037, Accuracy: 1074/1488 (72.1774%)
+
+Train Epoch: 17 	Domain Classifier Loss: 0.681457	Feature Extractor Loss: -0.290243	Train Accuracy: 0.717611
+usps set : Average loss: 0.0038, Accuracy: 1060/1488 (71.2366%)
+
+Train Epoch: 18 	Domain Classifier Loss: 0.787733	Feature Extractor Loss: -0.557912	Train Accuracy: 0.720215
+usps set : Average loss: 0.0039, Accuracy: 1113/1488 (74.7984%)
+
+Train Epoch: 19 	Domain Classifier Loss: 0.699126	Feature Extractor Loss: -0.476928	Train Accuracy: 0.729655
+usps set : Average loss: 0.0040, Accuracy: 1104/1488 (74.1935%)
+
+Train Epoch: 20 	Domain Classifier Loss: 0.768836	Feature Extractor Loss: -0.683678	Train Accuracy: 0.725586
+usps set : Average loss: 0.0036, Accuracy: 1108/1488 (74.4624%)
+
+Train Epoch: 21 	Domain Classifier Loss: 0.735100	Feature Extractor Loss: -0.659041	Train Accuracy: 0.706543
+usps set : Average loss: 0.0035, Accuracy: 1075/1488 (72.2446%)
+
+Train Epoch: 22 	Domain Classifier Loss: 0.672889	Feature Extractor Loss: -0.662478	Train Accuracy: 0.736491
+usps set : Average loss: 0.0033, Accuracy: 1127/1488 (75.7392%)
+
+Train Epoch: 23 	Domain Classifier Loss: 0.752846	Feature Extractor Loss: -0.921888	Train Accuracy: 0.740234
+usps set : Average loss: 0.0036, Accuracy: 1132/1488 (76.0753%)
+
+Train Epoch: 24 	Domain Classifier Loss: 0.697474	Feature Extractor Loss: -0.888736	Train Accuracy: 0.745605
+usps set : Average loss: 0.0035, Accuracy: 1134/1488 (76.2097%)
+
+Train Epoch: 25 	Domain Classifier Loss: 0.720967	Feature Extractor Loss: -1.020901	Train Accuracy: 0.741374
+usps set : Average loss: 0.0036, Accuracy: 1124/1488 (75.5376%)
+
+Train Epoch: 26 	Domain Classifier Loss: 0.736879	Feature Extractor Loss: -1.092338	Train Accuracy: 0.727865
+usps set : Average loss: 0.0040, Accuracy: 1064/1488 (71.5054%)
+
+Train Epoch: 27 	Domain Classifier Loss: 0.651655	Feature Extractor Loss: -0.985166	Train Accuracy: 0.744466
+usps set : Average loss: 0.0041, Accuracy: 1084/1488 (72.8495%)
+
+Train Epoch: 28 	Domain Classifier Loss: 0.785349	Feature Extractor Loss: -1.412381	Train Accuracy: 0.748535
+usps set : Average loss: 0.0041, Accuracy: 1108/1488 (74.4624%)
+
+Train Epoch: 29 	Domain Classifier Loss: 0.683703	Feature Extractor Loss: -1.238330	Train Accuracy: 0.761393
+usps set : Average loss: 0.0038, Accuracy: 1102/1488 (74.0591%)
+
+Train Epoch: 30 	Domain Classifier Loss: 0.682765	Feature Extractor Loss: -1.341258	Train Accuracy: 0.763997
+usps set : Average loss: 0.0039, Accuracy: 1078/1488 (72.4462%)
+
+Train Epoch: 31 	Domain Classifier Loss: 0.714596	Feature Extractor Loss: -1.425686	Train Accuracy: 0.749186
+usps set : Average loss: 0.0039, Accuracy: 1052/1488 (70.6989%)
+
+Train Epoch: 32 	Domain Classifier Loss: 0.662918	Feature Extractor Loss: -1.358872	Train Accuracy: 0.753092
+usps set : Average loss: 0.0041, Accuracy: 1069/1488 (71.8414%)
+
+Train Epoch: 33 	Domain Classifier Loss: 0.811987	Feature Extractor Loss: -1.887269	Train Accuracy: 0.746094
+usps set : Average loss: 0.0041, Accuracy: 1042/1488 (70.0269%)
+
+Train Epoch: 34 	Domain Classifier Loss: 0.702992	Feature Extractor Loss: -1.641935	Train Accuracy: 0.754883
+usps set : Average loss: 0.0037, Accuracy: 1091/1488 (73.3199%)
+
+Train Epoch: 35 	Domain Classifier Loss: 0.666568	Feature Extractor Loss: -1.662288	Train Accuracy: 0.776530
+usps set : Average loss: 0.0038, Accuracy: 1070/1488 (71.9086%)
+
+Train Epoch: 36 	Domain Classifier Loss: 0.760850	Feature Extractor Loss: -1.981902	Train Accuracy: 0.749023
+usps set : Average loss: 0.0042, Accuracy: 1049/1488 (70.4973%)
+
+Train Epoch: 37 	Domain Classifier Loss: 0.685875	Feature Extractor Loss: -1.774496	Train Accuracy: 0.750814
+usps set : Average loss: 0.0039, Accuracy: 1074/1488 (72.1774%)
+
+Train Epoch: 38 	Domain Classifier Loss: 0.673426	Feature Extractor Loss: -1.853836	Train Accuracy: 0.772786
+usps set : Average loss: 0.0039, Accuracy: 1090/1488 (73.2527%)
+
+Train Epoch: 39 	Domain Classifier Loss: 0.794730	Feature Extractor Loss: -2.335187	Train Accuracy: 0.760091
+usps set : Average loss: 0.0046, Accuracy: 1088/1488 (73.1183%)
+
+Train Epoch: 40 	Domain Classifier Loss: 0.725871	Feature Extractor Loss: -2.212961	Train Accuracy: 0.781413
+usps set : Average loss: 0.0041, Accuracy: 1096/1488 (73.6559%)
+
+Train Epoch: 41 	Domain Classifier Loss: 0.710398	Feature Extractor Loss: -2.214990	Train Accuracy: 0.772624
+usps set : Average loss: 0.0036, Accuracy: 1099/1488 (73.8575%)
+
+Train Epoch: 42 	Domain Classifier Loss: 0.680394	Feature Extractor Loss: -2.131096	Train Accuracy: 0.767415
+usps set : Average loss: 0.0038, Accuracy: 1062/1488 (71.3710%)
+
+Train Epoch: 43 	Domain Classifier Loss: 0.658909	Feature Extractor Loss: -2.150986	Train Accuracy: 0.779622
+usps set : Average loss: 0.0043, Accuracy: 963/1488 (64.7177%)
+
+Train Epoch: 44 	Domain Classifier Loss: 0.759139	Feature Extractor Loss: -2.621655	Train Accuracy: 0.769531
+usps set : Average loss: 0.0043, Accuracy: 1032/1488 (69.3548%)
+
+Train Epoch: 45 	Domain Classifier Loss: 0.722990	Feature Extractor Loss: -2.538927	Train Accuracy: 0.771973
+usps set : Average loss: 0.0045, Accuracy: 1039/1488 (69.8253%)
+
+Train Epoch: 46 	Domain Classifier Loss: 0.650433	Feature Extractor Loss: -2.343037	Train Accuracy: 0.786784
+usps set : Average loss: 0.0047, Accuracy: 997/1488 (67.0027%)
+
+Train Epoch: 47 	Domain Classifier Loss: 0.738998	Feature Extractor Loss: -2.765840	Train Accuracy: 0.771484
+usps set : Average loss: 0.0040, Accuracy: 1053/1488 (70.7661%)
+
+Train Epoch: 48 	Domain Classifier Loss: 0.754132	Feature Extractor Loss: -2.810560	Train Accuracy: 0.739583
+usps set : Average loss: 0.0041, Accuracy: 1036/1488 (69.6237%)
+
+Train Epoch: 49 	Domain Classifier Loss: 0.637173	Feature Extractor Loss: -2.426194	Train Accuracy: 0.773275
+usps set : Average loss: 0.0040, Accuracy: 1060/1488 (71.2366%)

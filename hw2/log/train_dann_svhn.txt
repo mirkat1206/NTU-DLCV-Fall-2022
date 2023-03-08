@@ -1,0 +1,39 @@
+
+Train Epoch: 0 	Domain Classifier Loss: 0.688433	Feature Extractor Loss: 1.413580	Train Accuracy: 0.391964
+svhn set : Average loss: 0.0081, Accuracy: 4355/15887 (27.4123%)
+
+Train Epoch: 1 	Domain Classifier Loss: 0.700839	Feature Extractor Loss: 0.619305	Train Accuracy: 0.686228
+svhn set : Average loss: 0.0072, Accuracy: 5959/15887 (37.5087%)
+
+Train Epoch: 2 	Domain Classifier Loss: 0.670757	Feature Extractor Loss: 0.426470	Train Accuracy: 0.751808
+svhn set : Average loss: 0.0069, Accuracy: 6666/15887 (41.9588%)
+
+Train Epoch: 3 	Domain Classifier Loss: 0.658648	Feature Extractor Loss: 0.359427	Train Accuracy: 0.773371
+svhn set : Average loss: 0.0074, Accuracy: 6137/15887 (38.6291%)
+
+Train Epoch: 4 	Domain Classifier Loss: 0.613259	Feature Extractor Loss: 0.334996	Train Accuracy: 0.787902
+svhn set : Average loss: 0.0081, Accuracy: 5820/15887 (36.6337%)
+
+Train Epoch: 5 	Domain Classifier Loss: 0.621769	Feature Extractor Loss: 0.309715	Train Accuracy: 0.796674
+svhn set : Average loss: 0.0071, Accuracy: 6503/15887 (40.9328%)
+
+Train Epoch: 6 	Domain Classifier Loss: 0.601752	Feature Extractor Loss: 0.283956	Train Accuracy: 0.809911
+svhn set : Average loss: 0.0084, Accuracy: 5946/15887 (37.4268%)
+
+Train Epoch: 7 	Domain Classifier Loss: 0.600697	Feature Extractor Loss: 0.266134	Train Accuracy: 0.813214
+svhn set : Average loss: 0.0083, Accuracy: 5655/15887 (35.5951%)
+
+Train Epoch: 8 	Domain Classifier Loss: 0.608608	Feature Extractor Loss: 0.246087	Train Accuracy: 0.818951
+svhn set : Average loss: 0.0081, Accuracy: 5970/15887 (37.5779%)
+
+Train Epoch: 9 	Domain Classifier Loss: 0.612242	Feature Extractor Loss: 0.231723	Train Accuracy: 0.824085
+svhn set : Average loss: 0.0087, Accuracy: 5761/15887 (36.2624%)
+
+Train Epoch: 10 	Domain Classifier Loss: 0.624589	Feature Extractor Loss: 0.212519	Train Accuracy: 0.825848
+svhn set : Average loss: 0.0092, Accuracy: 5669/15887 (35.6833%)
+
+Train Epoch: 11 	Domain Classifier Loss: 0.626698	Feature Extractor Loss: 0.196396	Train Accuracy: 0.829509
+svhn set : Average loss: 0.0086, Accuracy: 5925/15887 (37.2946%)
+
+Train Epoch: 12 	Domain Classifier Loss: 0.610727	Feature Extractor Loss: 0.190005	Train Accuracy: 0.835670
+svhn set : Average loss: 0.0110, Accuracy: 5103/15887 (32.1206%)

@@ -1,0 +1,19 @@
+hw4_data/
+hw4_data.zip
+out
+temp
+lala.py
+backup
+checkpoint
+bestcheckpoin
+out.csv
+*.tgz
+
+# DVGO
+**/.ipynb_checkpoints
+**/__pycache__
+*.npy
+*.npz
+*.dae
+*logs*
+*log.tgz

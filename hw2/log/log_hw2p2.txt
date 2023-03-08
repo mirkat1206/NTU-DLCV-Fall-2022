@@ -1,0 +1,520 @@
+Epoch 0
+loss: 0.1918
+image saved to img_epoch_00.png
+model loaded from ./Classifier.pth
+acc = 0.1 (correct/total = 40/400)
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-0.pth
+
+Epoch 1
+loss: 0.1546
+image saved to img_epoch_01.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-1.pth
+
+Epoch 2
+loss: 0.1355
+image saved to img_epoch_02.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-2.pth
+
+Epoch 3
+loss: 0.1242
+image saved to img_epoch_03.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-3.pth
+
+Epoch 4
+loss: 0.1185
+image saved to img_epoch_04.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-4.pth
+
+Epoch 5
+loss: 0.1123
+image saved to img_epoch_05.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-5.pth
+
+Epoch 6
+loss: 0.1117
+image saved to img_epoch_06.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-6.pth
+
+Epoch 7
+loss: 0.1074
+image saved to img_epoch_07.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-7.pth
+
+Epoch 8
+loss: 0.1059
+image saved to img_epoch_08.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-8.pth
+
+Epoch 9
+loss: 0.1038
+image saved to img_epoch_09.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-9.pth
+
+Epoch 10
+loss: 0.1023
+image saved to img_epoch_10.png
+model loaded from ./Classifier.pth
+acc = 0.5125 (correct/total = 205/400)
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-10.pth
+
+Epoch 11
+loss: 0.0992
+image saved to img_epoch_11.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-11.pth
+
+Epoch 12
+loss: 0.0980
+image saved to img_epoch_12.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-12.pth
+
+Epoch 13
+loss: 0.0949
+image saved to img_epoch_13.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-13.pth
+
+Epoch 14
+loss: 0.0942
+image saved to img_epoch_14.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-14.pth
+
+Epoch 15
+loss: 0.0936
+image saved to img_epoch_15.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-15.pth
+
+Epoch 16
+loss: 0.0945
+image saved to img_epoch_16.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-16.pth
+
+Epoch 17
+loss: 0.0927
+image saved to img_epoch_17.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-17.pth
+
+Epoch 18
+loss: 0.0929
+image saved to img_epoch_18.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-18.pth
+
+Epoch 19
+loss: 0.0913
+image saved to img_epoch_19.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-19.pth
+
+Epoch 20
+loss: 0.0903
+image saved to img_epoch_20.png
+model loaded from ./Classifier.pth
+acc = 0.9025 (correct/total = 361/400)
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-20.pth
+
+Epoch 21
+loss: 0.0905
+image saved to img_epoch_21.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-21.pth
+
+Epoch 22
+loss: 0.0873
+image saved to img_epoch_22.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-22.pth
+
+Epoch 23
+loss: 0.0886
+image saved to img_epoch_23.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-23.pth
+
+Epoch 24
+loss: 0.0885
+image saved to img_epoch_24.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-24.pth
+
+Epoch 25
+loss: 0.0869
+image saved to img_epoch_25.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-25.pth
+
+Epoch 26
+loss: 0.0873
+image saved to img_epoch_26.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-26.pth
+
+Epoch 27
+loss: 0.0883
+image saved to img_epoch_27.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-27.pth
+
+Epoch 28
+loss: 0.0855
+image saved to img_epoch_28.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-28.pth
+
+Epoch 29
+loss: 0.0855
+image saved to img_epoch_29.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-29.pth
+
+Epoch 30
+loss: 0.0849
+image saved to img_epoch_30.png
+model loaded from ./Classifier.pth
+acc = 0.87 (correct/total = 348/400)
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-30.pth
+
+Epoch 31
+loss: 0.0849
+image saved to img_epoch_31.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-31.pth
+
+Epoch 32
+loss: 0.0836
+image saved to img_epoch_32.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-32.pth
+
+Epoch 33
+loss: 0.0836
+image saved to img_epoch_33.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-33.pth
+
+Epoch 34
+loss: 0.0830
+image saved to img_epoch_34.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-34.pth
+
+Epoch 35
+loss: 0.0855
+image saved to img_epoch_35.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-35.pth
+
+Epoch 36
+loss: 0.0848
+image saved to img_epoch_36.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-36.pth
+
+Epoch 37
+loss: 0.0828
+image saved to img_epoch_37.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-37.pth
+
+Epoch 38
+loss: 0.0818
+image saved to img_epoch_38.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-38.pth
+
+Epoch 39
+loss: 0.0834
+image saved to img_epoch_39.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-39.pth
+
+Epoch 40
+loss: 0.0838
+image saved to img_epoch_40.png
+model loaded from ./Classifier.pth
+acc = 0.885 (correct/total = 354/400)
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-40.pth
+
+Epoch 41
+loss: 0.0832
+image saved to img_epoch_41.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-41.pth
+
+Epoch 42
+loss: 0.0820
+image saved to img_epoch_42.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-42.pth
+
+Epoch 43
+loss: 0.0813
+image saved to img_epoch_43.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-43.pth
+
+Epoch 44
+loss: 0.0803
+image saved to img_epoch_44.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-44.pth
+
+Epoch 45
+loss: 0.0803
+image saved to img_epoch_45.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-45.pth
+
+Epoch 46
+loss: 0.0816
+image saved to img_epoch_46.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-46.pth
+
+Epoch 47
+loss: 0.0806
+image saved to img_epoch_47.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-47.pth
+
+Epoch 48
+loss: 0.0809
+image saved to img_epoch_48.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-48.pth
+
+Epoch 49
+loss: 0.0788
+image saved to img_epoch_49.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-49.pth
+
+Epoch 50
+loss: 0.0812
+image saved to img_epoch_50.png
+model loaded from ./Classifier.pth
+acc = 0.9475 (correct/total = 379/400)
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-50.pth
+
+Epoch 51
+loss: 0.0789
+image saved to img_epoch_51.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-51.pth
+
+Epoch 52
+loss: 0.0812
+image saved to img_epoch_52.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-52.pth
+
+Epoch 53
+loss: 0.0793
+image saved to img_epoch_53.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-53.pth
+
+Epoch 54
+loss: 0.0791
+image saved to img_epoch_54.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-54.pth
+
+Epoch 55
+loss: 0.0810
+image saved to img_epoch_55.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-55.pth
+
+Epoch 56
+loss: 0.0787
+image saved to img_epoch_56.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-56.pth
+
+Epoch 57
+loss: 0.0790
+image saved to img_epoch_57.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-57.pth
+
+Epoch 58
+loss: 0.0787
+image saved to img_epoch_58.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-58.pth
+
+Epoch 59
+loss: 0.0810
+image saved to img_epoch_59.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-59.pth
+
+Epoch 60
+loss: 0.0786
+image saved to img_epoch_60.png
+model loaded from ./Classifier.pth
+acc = 0.9375 (correct/total = 375/400)
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-60.pth
+
+Epoch 61
+loss: 0.0780
+image saved to img_epoch_61.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-61.pth
+
+Epoch 62
+loss: 0.0764
+image saved to img_epoch_62.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-62.pth
+
+Epoch 63
+loss: 0.0806
+image saved to img_epoch_63.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-63.pth
+
+Epoch 64
+loss: 0.0786
+image saved to img_epoch_64.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-64.pth
+
+Epoch 65
+loss: 0.0790
+image saved to img_epoch_65.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-65.pth
+
+Epoch 66
+loss: 0.0801
+image saved to img_epoch_66.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-66.pth
+
+Epoch 67
+loss: 0.0793
+image saved to img_epoch_67.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-67.pth
+
+Epoch 68
+loss: 0.0773
+image saved to img_epoch_68.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-68.pth
+
+Epoch 69
+loss: 0.0772
+image saved to img_epoch_69.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-69.pth
+
+Epoch 70
+loss: 0.0779
+image saved to img_epoch_70.png
+model loaded from ./Classifier.pth
+acc = 0.8675 (correct/total = 347/400)
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-70.pth
+
+Epoch 71
+loss: 0.0763
+image saved to img_epoch_71.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-71.pth
+
+Epoch 72
+loss: 0.0779
+image saved to img_epoch_72.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-72.pth
+
+Epoch 73
+loss: 0.0762
+image saved to img_epoch_73.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-73.pth
+
+Epoch 74
+loss: 0.0781
+image saved to img_epoch_74.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-74.pth
+
+Epoch 75
+loss: 0.0778
+image saved to img_epoch_75.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-75.pth
+
+Epoch 76
+loss: 0.0779
+image saved to img_epoch_76.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-76.pth
+
+Epoch 77
+loss: 0.0770
+image saved to img_epoch_77.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-77.pth
+
+Epoch 78
+loss: 0.0766
+image saved to img_epoch_78.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-78.pth
+
+Epoch 79
+loss: 0.0776
+image saved to img_epoch_79.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-79.pth
+
+Epoch 80
+loss: 0.0780
+image saved to img_epoch_80.png
+model loaded from ./Classifier.pth
+acc = 0.945 (correct/total = 378/400)
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-80.pth
+
+Epoch 81
+loss: 0.0758
+image saved to img_epoch_81.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-81.pth
+
+Epoch 82
+loss: 0.0771
+image saved to img_epoch_82.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-82.pth
+
+Epoch 83
+loss: 0.0775
+image saved to img_epoch_83.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-83.pth
+
+Epoch 84
+loss: 0.0766
+image saved to img_epoch_84.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-84.pth
+
+Epoch 85
+loss: 0.0767
+image saved to img_epoch_85.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-85.pth
+
+Epoch 86
+loss: 0.0758
+image saved to img_epoch_86.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-86.pth
+
+Epoch 87
+loss: 0.0774
+image saved to img_epoch_87.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-87.pth
+
+Epoch 88
+loss: 0.0760
+image saved to img_epoch_88.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-88.pth
+
+Epoch 89
+loss: 0.0767
+image saved to img_epoch_89.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-89.pth
+
+Epoch 90
+loss: 0.0782
+image saved to img_epoch_90.png
+model loaded from ./Classifier.pth
+acc = 0.9275 (correct/total = 371/400)
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-90.pth
+
+Epoch 91
+loss: 0.0776
+image saved to img_epoch_91.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-91.pth
+
+Epoch 92
+loss: 0.0764
+image saved to img_epoch_92.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-92.pth
+
+Epoch 93
+loss: 0.0783
+image saved to img_epoch_93.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-93.pth
+
+Epoch 94
+loss: 0.0762
+image saved to img_epoch_94.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-94.pth
+
+Epoch 95
+loss: 0.0772
+image saved to img_epoch_95.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-95.pth
+
+Epoch 96
+loss: 0.0758
+image saved to img_epoch_96.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-96.pth
+
+Epoch 97
+loss: 0.0753
+image saved to img_epoch_97.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-97.pth
+
+Epoch 98
+loss: 0.0758
+image saved to img_epoch_98.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-98.pth
+
+Epoch 99
+loss: 0.0752
+image saved to img_epoch_99.png
+model saved to ./checkpoint/hw2p2/ddpm_mnistm-99.pth
+

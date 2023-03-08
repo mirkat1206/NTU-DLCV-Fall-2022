@@ -1,0 +1,10 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specified below
+
+hw2_data/*
+*png
+*jpg
+__MACOSX/*
+*.pth
+checkpoint/*
+.ipynb_checkpoints/*

@@ -1,0 +1,21 @@
+
+Image 1: bicycle
+bicycle : 	(0) 	59.77%
+pine_tree: 	(23) 	10.07%
+willow_tree: 	(13) 	9.91%
+oak_tree: 	(18) 	5.65%
+sweet_pepper: 	(37) 	3.22%
+
+Image 2: camel
+camel   : 	(2) 	97.22%
+kangaroo: 	(17) 	1.50%
+elephant: 	(44) 	0.21%
+palm_tree: 	(39) 	0.16%
+willow_tree: 	(13) 	0.15%
+
+Image 3: shrew
+rabbit  : 	(3) 	11.13%
+lizard  : 	(36) 	10.46%
+dinosaur: 	(11) 	7.30%
+willow_tree: 	(13) 	5.60%
+shrew   : 	(48) 	5.34%

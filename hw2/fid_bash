@@ -1,0 +1,5 @@
+for i in {0..119}
+do
+    echo $i
+    python3 -m pytorch_fid hw2_data/face/val faceA_final/$i
+done
