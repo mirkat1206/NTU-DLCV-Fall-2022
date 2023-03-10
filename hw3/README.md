@@ -29,3 +29,6 @@ If you have any problems related to HW3, you may
 - Use TA hours
 - Contact TAs by e-mail ([ntudlcv@gmail.com](mailto:ntudlcv@gmail.com))
 - Post your question under hw3 FAQ section in FB group.(But TAs won't answer your question on FB.)
+
+# My Report Link
+[DLCV HW1 Report](https://hackmd.io/@mirkat1206/HkqJbqqSo)

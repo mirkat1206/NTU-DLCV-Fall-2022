@@ -34,3 +34,6 @@ If you have any problems related to HW4, you may
 - Use TA hours
 - Contact TAs by e-mail ([ntudlcv@gmail.com](mailto:ntudlcv@gmail.com))
 - Post your question under hw4 FAQ section in FB group.(But TAs won't answer your question on FB.)
+
+# My Report Link
+[DLCV HW4 Report](https://hackmd.io/@mirkat1206/B17X7Evwj)
