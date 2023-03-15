@@ -10,7 +10,7 @@
 
 To be honest, I did not do very well in this course.
 
-This repo may not be very helpful if you are trying to have good performance.
+This repo may not be very helpful if you are trying to achieve good performance.
 
 Be aware of if you try to copy my model.
 
