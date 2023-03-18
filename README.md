@@ -29,7 +29,7 @@ Be aware of if you try to copy my model.
 - [HW2 slide](https://docs.google.com/presentation/d/1A38mJUAfDo-4yYzy6UCBZrEo3aE50ceO/edit?usp=sharing&ouid=107585355306558125830&rtpof=true&sd=true)
 - [DLCV HW2 Report](https://hackmd.io/@mirkat1206/HyvUgfbVj)
 
-### HW3
+### [HW3](https://github.com/mirkat1206/NTU-DLCV-Fall-2022/tree/main/hw3)
 - Problem 1 : Zero-shot Image Classification with CLIP
 - Problem 2 : Image Captioning with Vision and Language Model
 - Problem 3 : Visualization of Attention in Image Captioning
@@ -37,7 +37,7 @@ Be aware of if you try to copy my model.
 - [DLCV HW3 Report](https://hackmd.io/@mirkat1206/HkqJbqqSo)
 
 
-### HW4
+### [HW4](https://github.com/mirkat1206/NTU-DLCV-Fall-2022/tree/main/hw4)
 - Problem 1 : 3D Novel View Synthesis
 - Problem 2 : Self-supervised Pre-training for Image Classification
 - [HW4 slide](https://docs.google.com/presentation/d/171DwrrzYUenLnyev_NyZg0c19lgqk4q42iA_ptLZjDk/edit?usp=sharing)
